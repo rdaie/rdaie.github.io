@@ -22,7 +22,7 @@ body {
 }
 
 .logo {
-  font-family: 'Retro Font', sans-serif;
+  font-family: 'Helvetica', sans-serif;
   font-size: 72px;
   color: #fff;
   text-transform: uppercase;
@@ -52,6 +52,7 @@ body {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+  font-family: monospace;
 }
 
 @keyframes blink {
